@@ -1,0 +1,14 @@
+.card{
+    background: #202020;
+    color: aliceblue
+}
+
+.spam-true{
+    background: rgb(0, 163, 0);
+    font-size: 50px;
+}
+
+.spam-false{
+    background: rgb(163, 0, 0);
+    font-size: 50px;
+}
